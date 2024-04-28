@@ -1,0 +1,18 @@
+.language-selector {
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    outline: none;
+    color: #fff;
+    border-radius: 12px;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin: 15px;
+}
+
+.language-selector:hover {
+    border-color: #aaa;
+}
+
+.language-selector:focus {
+    border-color: #4CAF50;
+}
