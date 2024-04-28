@@ -5,9 +5,9 @@
 
 ## How to Run the project
 
-Create a .env file in the root directory and copy the contents of .env.example in it.
+1. Create a .env file in the root directory and copy the contents of .env.example in it.
 
-Replace the value of API keys with your open weather api keys you can create your account here https://openweathermap.org/api
+2. Replace the value of API keys with your open weather api keys. You can create your account here https://openweathermap.org/api.
 
 
 In the project directory, you can run:
@@ -18,5 +18,5 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `npm test`
-the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Runs the projects
 
