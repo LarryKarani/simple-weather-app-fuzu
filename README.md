@@ -5,7 +5,9 @@
 
 ## How to Run the project
 
-Create a .env file in the root directory and copy the contents of .env.example in it.\ Replace the value of API keys with your open weather api keys you can create your account here https://openweathermap.org/api
+Create a .env file in the root directory and copy the contents of .env.example in it.
+
+Replace the value of API keys with your open weather api keys you can create your account here https://openweathermap.org/api
 
 
 In the project directory, you can run:
